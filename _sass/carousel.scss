@@ -1,0 +1,23 @@
+.carousel-img {
+    object-fit: cover;
+    height: 520px;
+    max-height: 100vw;
+    text-align: center;
+}
+
+.carousel-card>h5 {
+    font-size: 1.25rem;
+    margin-top: 1em;
+}
+
+.carousel-card {
+    padding-bottom: 0.5em;
+}
+
+.owl-carousel-wrapper {
+    min-height: 520px;
+
+    @media only screen and (max-width: 520px) {
+        min-height: 100vw;
+    }
+}

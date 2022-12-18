@@ -1,0 +1,72 @@
+$bg-color: #f8f9fa;
+$fg-color: #000000;
+$body-font: sans-serif;
+$heading-font: 'Oswald',
+sans-serif;
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    background: $bg-color;
+    color: $fg-color;
+    font-family: $body-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: $heading-font;
+}
+
+a {
+    font-family: $heading-font;
+    text-decoration: none;
+    color: inherit;
+}
+
+.content-wrapper {
+    margin: auto;
+    flex-grow: 1;
+    max-width: MIN(1080px, 100vw);
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+nav,
+footer,
+main {
+    display: flex;
+}
+
+main {
+    margin-bottom: 4em;
+}
+
+.hero-link {
+    border: 2px solid black;
+    padding: 0.4em 1em 0.4em 1em;
+    font-family: $heading-font;
+    display: inline-block;
+    width: fit-content;
+    text-decoration: none;
+
+}
+
+iframe {
+    max-width: 100%;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+p a+a {
+    margin-left: 1em;
+}

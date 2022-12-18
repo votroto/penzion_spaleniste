@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
+
+<body>
+    {% include nav.html %}
+    {% if page.heroimg %}
+    <div class="hero" style="background-image:url('{{ page.heroimg }}');background-size:cover">
+
+        <div class="hero-txt">
+            <span class="hero-txt-title">Penzion s vlastním rybníkem.</span>
+            <span class="hero-txt-subtitle">Pro milovníky soukromí, klidu a rybaření.</span>
+        </div>
+    </div>
+    {% endif %}
+    <main>
+        <div class="content-wrapper">
+            {{ content }}
+        </div>
+    </main>
+    {% include footer.html %}
+    {% include carousel.html %}
+
+</body>
+
+</html>
