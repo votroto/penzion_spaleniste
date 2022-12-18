@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 {% include head.html %}
 
-<body>
+<body onload="owl()">
     {% include nav.html %}
     {% if page.heroimg %}
     <div class="hero" style="background-image:url('{{ page.heroimg }}');background-size:cover">
