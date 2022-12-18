@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Spáleniště"
-heroimg: "/assets/img/index_hero.jpg"
+heroimg: "https://penzionspaleniste.cz/assets/img/index_hero.jpg"
 ---
 
 
