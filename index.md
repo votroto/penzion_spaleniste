@@ -17,7 +17,9 @@ Můj prapředek koupil pozemky, na nichž penzion stojí, od hraběte Colloredo 
     <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/index_rybp_small.jpg" /></div>
 </div>
 
-Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možností grilování, pípu s vynikajícím místním pivem Rampušákem, stolní tenis, i pokrytí Wi-Fi signálem.
+Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možností grilování, 
+pípu s vynikajícím místním pivem Rampušákem. Dalé také houpačky, pískoviště 
+a klouzačku pro děti; stolní tenis, i pokrytí Wi-Fi signálem.
 
 <a href="/about.html" class="hero-link">Více o penzionu</a>
 
@@ -43,9 +45,9 @@ Penzion je určen pro klienty, kteří preferují vlastní přípravu jídla v p
     </div>
     <div>
         <div class="carousel-card"><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/index_mari_small.jpg" />
-            <h5>Maringotka (připravujeme)</h5>
-            <p>Maringotka přímo na břehu rybníku.</p>
-            <a href="/booking.html#maringotka" class="hero-link">Připravujeme</a>
+            <h5>Maringotka</h5>
+            <p>Maringotka přímo na břehu rybníka.</p>
+            <a href="/booking.html#maringotka" class="hero-link">Detail</a>
         </div>
     </div>
 </div>
@@ -53,7 +55,7 @@ Penzion je určen pro klienty, kteří preferují vlastní přípravu jídla v p
 <br>
 
 ## Rybářská dovolená
-Rybářská dovolená, sportovní rybolov, prostě chytání ryb, je u našeho rybníka intimní záležitost. Váš koníček zde nebude nikým a ničím rušen. A všechny ryby v rybníce Vám budou k dispozici.
+Rybářská dovolená, sportovní rybolov, prostě chytání ryb, je u našeho rybníku intimní záležitost. Váš koníček zde nebude nikým a ničím rušen. A všechny ryby v rybníce Vám budou k dispozici.
     
 <div class="owl-carousel owl-theme">
     <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/index_znac_small.jpg" /> </div>

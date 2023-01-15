@@ -27,7 +27,7 @@ Lze domluvit i využití prostorného podkrovního „Letiště“ až pro 5 noc
     </div>
 </div>
 
-Apartmán pro 4 osoby za 2 400,- Kč za noc. U každého apartmánu je možnost max. dvou přistýlek za 450,- Kč za osobu a noc. Lze domluvit i využití půdy pro až pět nenáročných nocležníků za 450,- Kč za osobu a noc.
+Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc. Lze domluvit i využití půdy pro až pět nenáročných nocležníků za 450,- Kč za osobu a noc.
 
 <a href="#trevlix" class="hero-link">Rezervovat</a>
 
@@ -47,7 +47,7 @@ Apartmán je umístěn v přízemí, má samostatný vchod. Skládá se ze dvou 
     </div>
 </div>
 
-Apartmán pro 4 osoby za 2 400,- Kč za noc. U každého apartmánu je možnost max. dvou přistýlek za 450,- Kč za osobu a noc.
+Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc.
 
 <a href="#trevlix" class="hero-link">Rezervovat</a>
 
@@ -55,7 +55,10 @@ Apartmán pro 4 osoby za 2 400,- Kč za noc. U každého apartmánu je možnost 
 
 <h2 id="maringotka">Maringotka (Připravujeme)</h2>
 
-Maringotka přímo na břehu rybníku.
+Maringotka pro rybáře na břehu rybníka. Maringotka je vybavená dvojpostelí a kuchyňkou 
+s lednicí, plynovým vařičem a kamny na dřevo. Součástí je terasa s posezením a možností rybolovu. 
+K dispozici je Wi-Fi připojení. Možnost až dvou přistýlek na nafukovacích matracích. 
+Na hranici lesa jsou dva suché záchody.
 
 <div class="owl-carousel-wrapper">
     <div class="owl-carousel owl-theme ">
@@ -64,8 +67,18 @@ Maringotka přímo na břehu rybníku.
     </div>
 </div>
 
+<p>Maringotka pro 2 osoby za 1000 Kč za noc s možností stanování u maringotky za 300 Kč,
+případně dle telefonické dohody.</p>
+
+<p><a href="#trevlix" class="hero-link">Rezervovat</a></p>
+
 <br>
 <hr>
 <br>
 
 <iframe id="trevlix" loading="lazy" src="https://book.trevlix.com/book/app/?cid=7149256" name="trevlix-book-app" scrolling="auto" style="height: 857px;" width="100%" height="1100" frameborder="0"></iframe>
+
+<script>
+const fab = document.querySelector('#fab-booking');
+fab.style.visibility="hidden";
+</script>

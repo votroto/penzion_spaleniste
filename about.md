@@ -4,9 +4,11 @@ title: "O penzionu"
 ---
 
 ## Penzion Spáleniště
-Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možností grilování, pípu s vynikajícím místním pivem Rampušákem, stolní tenis, i pokrytí Wi-Fi signálem.
+Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možností grilování, 
+pípu s vynikajícím místním pivem Rampušákem. Dalé také houpačky, pískoviště 
+a klouzačku pro děti; stolní tenis, i pokrytí Wi-Fi signálem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QBsWVMcY_EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LYaKxw6zxQg" title="Penzion Spáleniště" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        
 ## Místo s historií
 Podle historických pramenů koupil můj prapředek pozemky kolem roku 1750 od hraběte Colloredo Mansfelda, majitele blízkého zámku v Opočně. Šlo o pozemky neúrodné, o mokřiny zarostlé olšemi. Stromy předkové vykáceli. Pařezy po vykácených stromech ze země vypálili. Od té doby se místo jmenuje Spáleniště.

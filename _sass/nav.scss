@@ -57,19 +57,31 @@ nav {
     right: 16px;
     width: fit-content;
     height: fit-content;
-    background: white;
+    background: #FFD2AD;
     border: 2px black solid;
     border-radius: 16px;
     //box-shadow: 1px 2px 4px #0005;
-    line-height: 0;
+    padding: 16px;
+    padding-right: 20px;
+    padding-left: 20px;
     z-index: 11;
+    gap: 12px;
+
+    align-items: center;
 
     @media only screen and (max-width: 600px) {
         font-size: 18px;
-        display: block;
+        display: flex;
     }
 }
 
 .fab img {
-    padding: 16px;
+    width: 24px;
+    height: 24px;
+}
+
+.fab span {
+    font-size: 16px;
+    line-height: 16px;
+    display: block;
 }
