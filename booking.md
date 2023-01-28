@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ubytování"
+description: "Ubytování v jednom ze dvou apartmánů se dvěmi ložnicemi a plně vybavenou kuchyní, nebo v maringotce u rybníka."
 ---
 ## Ubytování v penzionu
 
@@ -19,11 +20,11 @@ Lze domluvit i využití prostorného podkrovního „Letiště“ až pro 5 noc
 
 <div class="owl-carousel-wrapper">
     <div class="owl-carousel owl-theme">
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_jedn_lozn_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_jedn_kuch_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_jedn_poko_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_jedn_koup_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_jedn_leti_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="ložnice" src="https://penzionspaleniste.cz/assets/img/booking_jedn_lozn_small.webp" /> </div>
+        <div><img class="carousel-img" alt="kuchyně" src="https://penzionspaleniste.cz/assets/img/booking_jedn_kuch_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="pokoj" src="https://penzionspaleniste.cz/assets/img/booking_jedn_poko_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="koupelna" src="https://penzionspaleniste.cz/assets/img/booking_jedn_koup_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="podkroví" src="https://penzionspaleniste.cz/assets/img/booking_jedn_leti_small.webp" /> </div>
     </div>
 </div>
 
@@ -39,11 +40,11 @@ Apartmán je umístěn v přízemí, má samostatný vchod. Skládá se ze dvou 
 
 <div class="owl-carousel-wrapper">
     <div class="owl-carousel owl-theme">
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_lozn_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_kuch_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_kuc2_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_poko_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_zach_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="ložnice" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_lozn_small.webp" /> </div>
+        <div><img class="carousel-img" alt="kuchyně" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_kuch_small.webp" /> </div>
+        <div><img class="carousel-img" alt="kuchyně" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_kuc2_small.webp" /> </div>
+        <div><img class="carousel-img" alt="pokoj" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_poko_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="záchod" src="https://penzionspaleniste.cz/assets/img/booking_dvoj_zach_small.jpg" /> </div>
     </div>
 </div>
 
@@ -62,8 +63,8 @@ Na hranici lesa jsou dva suché záchody.
 
 <div class="owl-carousel-wrapper">
     <div class="owl-carousel owl-theme ">
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_mari_venk_small.jpg" /> </div>
-        <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/booking_mari_vnit_small.jpg" /> </div>
+        <div><img class="carousel-img" alt="maringotka z venku" src="https://penzionspaleniste.cz/assets/img/booking_mari_venk_small.webp" /> </div>
+        <div><img class="carousel-img" alt="vnitřek maringotky" src="https://penzionspaleniste.cz/assets/img/booking_mari_vnit_small.webp" /> </div>
     </div>
 </div>
 

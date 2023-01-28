@@ -14,10 +14,10 @@ a klouzačku pro děti; stolní tenis, i pokrytí Wi-Fi signálem.
 Podle historických pramenů koupil můj prapředek pozemky kolem roku 1750 od hraběte Colloredo Mansfelda, majitele blízkého zámku v Opočně. Šlo o pozemky neúrodné, o mokřiny zarostlé olšemi. Stromy předkové vykáceli. Pařezy po vykácených stromech ze země vypálili. Od té doby se místo jmenuje Spáleniště.
 
 <div class="owl-carousel owl-theme">
-    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci1_small.jpg" /></div>
-    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci2_small.jpg" /></div>
-    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci3_small.jpg" /></div>
-    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci4_small.jpg" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci1_small.webp" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci2_small.webp" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci3_small.webp" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/about_gloci4_small.webp" /></div>
 </div>
 
 Z místní jílovité hlíny moji předkové vyrobili cihly. Z těch postavili zdejší statek - první stavení v okolí, zděné z pálených cihel. V nejvíce podmočené části pozemku zbudovali rybník. Na poli u něj můžete ještě dnes najít vyorané úlomky původních cihel v místě, na kterém byly vyráběny.
