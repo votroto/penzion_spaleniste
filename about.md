@@ -3,7 +3,8 @@ layout: default
 title: "O penzionu"
 ---
 
-## Penzion Spáleniště
+# Penzion Spáleniště
+
 Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možností grilování, 
 pípu s vynikajícím místním pivem Rampušákem. Dalé také houpačky, pískoviště 
 a klouzačku pro děti; stolní tenis, i pokrytí Wi-Fi signálem.

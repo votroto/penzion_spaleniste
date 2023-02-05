@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Okolí"
+description: "V okolí jsou krásné zámky, pro milovníky vojenské historie je zde spousta hraničního opevnění, a v zimním období můžete vyrazit na Velkou Deštnou."
 ---
 
-## Co zdejší kraj nabízí
+# Co zdejší kraj nabízí
 
 Nestíháte před dovolenou naplánovat svůj dovolenkový program? Nevadí! Přijeďte i tak. Kam se chcete podívat, co chcete zažít a jak budete trávit svůj čas, si můžete průběžně a v klidu plánovat s využitím prověřených tipů uvedených na této stránce. 
 

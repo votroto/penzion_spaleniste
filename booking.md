@@ -3,7 +3,8 @@ layout: default
 title: "Ubytování"
 description: "Ubytování v jednom ze dvou apartmánů se dvěmi ložnicemi a plně vybavenou kuchyní, nebo v maringotce u rybníka."
 ---
-## Ubytování v penzionu
+
+# Ubytování v penzionu
 
 Penzion je určen pro klienty, kteří preferují vlastní přípravu jídla v plně vybavené kuchyni. Není zařízen pro pobyt s domácími mazlíčky.
 

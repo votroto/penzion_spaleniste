@@ -5,7 +5,6 @@ heroimg: "https://penzionspaleniste.cz/assets/img/index_hero.webp"
 description: "Penzion s vlastním rybníkem v Orlických horách u Dobrušky. Pro milovníky soukromí, klidu a rybaření."
 ---
 
-
 ## Místo s historií
 
 Můj prapředek koupil pozemky, na nichž penzion stojí, od hraběte Colloredo Mansfelda z Opočna. Zúrodnil je, postavil statek, vybudoval rybník. Nyní je statek po rekonstrukci, v rámci které byly v jeho části vytvořeny dva apartmány.
