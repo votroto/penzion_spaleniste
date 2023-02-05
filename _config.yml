@@ -1,6 +1,8 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Penzion Spáleniště" # the name of your site, e.g. ACME Corp.
+url: "https://penzionspaleniste.cz"
+title: "Penzion Spáleniště"
 
 sass:
   style: compressed
+
+plugins:
+  - jekyll-sitemap

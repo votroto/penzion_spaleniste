@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ubytování"
+title: "Ubytování v apartmánech nebo u rybníka"
 description: "Ubytování v jednom ze dvou apartmánů se dvěmi ložnicemi a plně vybavenou kuchyní, nebo v maringotce u rybníka."
 ---
 

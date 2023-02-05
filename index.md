@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Spáleniště"
+title: "Penzion Spáleniště: Místo s historií"
 heroimg: "https://penzionspaleniste.cz/assets/img/index_hero.webp"
 description: "Penzion s vlastním rybníkem v Orlických horách u Dobrušky. Pro milovníky soukromí, klidu a rybaření."
 ---

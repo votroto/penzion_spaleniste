@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "O penzionu"
+title: "O penzionu Spáleniště"
 ---
 
 # Penzion Spáleniště
