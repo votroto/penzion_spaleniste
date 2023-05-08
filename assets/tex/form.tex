@@ -1,0 +1,87 @@
+\documentclass[a4paper,landscape,10pt]{scrartcl}
+\usepackage[czech]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage[T1]{fontenc}
+\usepackage[a4paper,margin=0.5in,landscape]{geometry}
+\usepackage{blindtext}
+\usepackage{tikz}
+\usepackage{tabularx,booktabs}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+    \titlefont\Large Penzion Spáleniště - příjezdový formulář / check-in form
+\end{center}
+\def\arraystretch{2}
+\begin{description}[leftmargin=0pt]
+
+    \item[Údaje o hostech]\phantom{}
+    
+        \begin{tabularx}{\linewidth}{
+            |>{\hsize=1.64\hsize}X|% 10% of 4\hsize 
+            >{\hsize=.78\hsize}X|% 30% of 4\hsize
+            >{\hsize=.78\hsize}X|% 30% of 4\hsize 
+            >{\hsize=.8\hsize}X|% 30% of 4\hsize
+          }
+            \hline
+            Jméno a příjmení / Name and Surname & Datum narození / Date of Birth & Státní příslušnost / Nationality & Číslo dokladu / Passport No.\\
+            \hline &&& \\
+            \hline &&& \\
+            \hline &&& \\
+            \hline &&& \\
+            \hline &&& \\
+            \hline &&& \\
+            \hline
+        \end{tabularx}
+
+    \item[Údaje o pobytu]\phantom{}
+    
+    \begin{tabularx}{\linewidth}{
+        |>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|      }
+        \hline
+        Apartmán / Apartment & Počet nocí / Nights &Počet klíčů / No. of Keys & Cena za noc / Price per Night\footnotemark[1] & Celková cena / Total Price\footnote{Ceny zahrnují DPH a další poplatky, pokud je ubytovatel plátce / including VAT and other fees, if applicable.}\\
+        \hline &&&& \\
+        \hline
+    \end{tabularx}
+
+
+    \item[Další služby a poznámky / other services and notes] Další služby budou účtovány dle skutečnosti při odjezdu.
+    
+    \def\arraystretch{3}
+    \begin{tabularx}{\linewidth}{|X|}
+        \hline
+         \\
+        \hline
+    \end{tabularx}
+
+
+    \item[Prohlášení]
+    Podpisem tohoto příjezdového formuláře potvrzuji nástup do ubytování dle předchozí rezervace, včetně počtu a identifikace výše uvedených osob. Zároveň tímto za
+    celou skupinu potvrzuji, že jsme se seznámili a akceptujeme veškeré podmínky ubytování podle Ubytovacího řádu, který je vyvěšen v ubytovacích prostorách. Potvrzení
+    rezervace je přílohou originálu toho formuláře, který je mi předáván v kopii.
+
+    I hereby confirm arrival to the accommodation according to the previous reservation, including the number and identification of the persons above. At the same time,
+    I hereby confirm, for our whole group, that we have read and accept all the conditions of accommodation according to the Accommodation Rules, which are posted in
+    the accommodation. The booking confirmation is attached to the original of the form, which is given to me in a copy.
+
+    \def\arraystretch{2}
+    \begin{tabularx}{\linewidth}{
+        |>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|>{\hsize=1\hsize}X|}
+        \hline
+    
+        Datum příjezdu / Date of Arrival & Jméno a příjmení / Name and Surname & Podpis / Signature \\
+        \hline && \\
+        \hline
+    \end{tabularx}
+\end{description}
+
+
+\begin{center}
+    Ubytovatel: \emph{Martina Kytýrová}, IČ: 638 24 647, se sídlem: Spáleniště 17, 518 01, Dobruška
+\end{center}
+
+\end{document}
