@@ -57,9 +57,11 @@ nav {
     right: 16px;
     width: fit-content;
     height: fit-content;
-    background: #FFD2AD;
-    border: 2px black solid;
+    background: #69363b;
+    // border: 2px black solid;
     border-radius: 16px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     //box-shadow: 1px 2px 4px #0005;
     padding: 16px;
     padding-right: 20px;
@@ -75,13 +77,30 @@ nav {
     }
 }
 
+.fab {
+    animation: appear 0.5s;
+}
+
 .fab img {
     width: 24px;
     height: 24px;
+    vertical-align: middle;
+    filter: invert(1);
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 .fab span {
     font-size: 16px;
     line-height: 16px;
-    display: block;
+    vertical-align: middle;
+    overflow: hidden;
 }

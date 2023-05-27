@@ -15,3 +15,40 @@ footer ul {
     background-color: #232323;
     padding-bottom: 0em;
 }
+
+.call h5 {
+    margin-bottom: 0;
+}
+
+.call a {
+    font-size: 1.953rem;
+    font-weight: 600;
+    color: #41191a;
+}
+
+footer ul {
+    margin-bottom: 0;
+}
+
+.footer-wrapper {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contact img,
+.contact span {
+    vertical-align: middle;
+    margin-right: 0.4em;
+}
+
+.contact li {
+    margin-bottom: 0.2em;
+    min-width: 30ch;
+}
+
+#firmycz-button {
+    margin-top: auto;
+    display: block;
+}
