@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "cs-CZ" }}">
+{% include head.html %}
+
+<body onload="owl()">
+{% include nav.html %}
+    <div class="hero" style="background-image:url('{{ site.asset_server }}/img/index_hero.webp');background-size:cover">
+        <div class="hero-txt">
+            <span class="hero-txt-title">Penzion s vlastním rybníkem.</span>
+            <span class="hero-txt-subtitle">Pro milovníky soukromí, klidu a rybaření.</span>
+        </div>
+    </div>
+    <main>
+        <div class="content-wrapper">
+            {{ content }}
+        </div>
+    </main>
+{% include footer.html %}
+{% include carousel.html %}
+</body>
+
+</html>

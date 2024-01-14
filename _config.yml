@@ -1,5 +1,6 @@
 url: "https://penzionspaleniste.cz"
 title: "Penzion Spáleniště"
+asset_server: "https://penzionspaleniste.cz/assets/"
 
 sass:
   style: compressed
