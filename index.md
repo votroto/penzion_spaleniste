@@ -5,8 +5,7 @@ description: "Penzion s vlastním rybníkem v Orlických horách u Dobrušky. Pr
 imgs_intro: [
     {alt: "vchod do penzionu", src: "/img/index_vcho_small.webp"},
     {alt: "venkovní gril v pergole", src: "/img/index_gril_small.webp"},
-    {alt: "klouzačka, houpačky a pískoviště pro děti", src: "/img/index_klou_small.webp"},
-    {alt: "vchod", src: "/img/index_pohl_small.webp"},
+    {alt: "klouzačka, houpačky a pískoviště pro děti", src: "/img/index_houp_small.webp"},
     {alt: "rybník", src: "/img/index_rybp_small.webp"},
 ]
 imgs_fishing: [

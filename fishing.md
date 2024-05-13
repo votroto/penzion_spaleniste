@@ -10,7 +10,9 @@ V našem rybníku o rozloze cca 1 ha, hned vedle usedlosti, si můžete dobře z
 
 <div class="owl-carousel owl-theme">
     <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/fishing_trof_small.webp" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/fishing_olse_small.webp" /></div>
     <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/fishing_rybn_small.webp" /></div>
+    <div><img class="carousel-img" src="https://penzionspaleniste.cz/assets/img/fishing_lavi_small.webp" /></div>
 </div>
 
 Nepotřebujete rybářský lístek, stačí pouze povolenka, kterou zakoupíte v penziónu. Ulovenou rybu si můžete ponechat a třeba večer připravit na grilu, ryby trofejní velikosti vrátíte vodě.

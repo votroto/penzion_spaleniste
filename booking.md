@@ -17,8 +17,9 @@ imgs_dvojka: [
     {alt: "záchod", src: "/img/booking_dvoj_zach_small.jpg"},
 ]
 imgs_maringotka: [
-    {alt: "maringotka z venku", src: "/img/booking_mari_venk_small.webp"},
+    {alt: "maringotka z venku", src: "/img/booking_mari_1_small.webp"},
     {alt: "vnitřek maringotky", src: "/img/booking_mari_vnit_small.webp"},
+    {alt: "maringotka z boku", src: "/img/booking_mari_3_small.webp"},
 ]
 ---
 
