@@ -1,8 +1,4 @@
-$bg-color: #f8f9fa;
-$fg-color: #000000;
-$body-font: sans-serif;
-$heading-font: 'Oswald',
-    sans-serif;
+@use "var";
 
 body,
 html {
@@ -12,9 +8,9 @@ html {
 }
 
 body {
-    background: $bg-color;
-    color: $fg-color;
-    font-family: $body-font;
+    background: var.$bg-color;
+    color: var.$fg-color;
+    font-family: var.$body-font;
 }
 
 h1,
@@ -22,11 +18,11 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: $heading-font;
+    font-family: var.$heading-font;
 }
 
 a {
-    font-family: $heading-font;
+    font-family: var.$heading-font;
     text-decoration: none;
     color: inherit;
 }
@@ -56,9 +52,9 @@ main {
 }
 
 .hero-link {
-    border: 2px solid black;
+    border: 2px solid var.$fg-color;
     padding: 0.4em 1em 0.4em 1em;
-    font-family: $heading-font;
+    font-family: var.$heading-font;
     display: inline-block;
     width: fit-content;
     text-decoration: none;

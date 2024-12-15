@@ -1,16 +1,14 @@
+@use "var";
+
 .hero {
     width: 100%;
     max-width: 100vw;
     max-height: 70vw;
-
     height: 935px;
-
     overflow: hidden;
     display: flex;
-
     padding: 2em;
     box-sizing: border-box;
-
     background-position: center;
 
     @media only screen and (max-width: 600px) {
@@ -22,47 +20,38 @@
     display: block;
     margin: auto;
     width: 35em;
-    background-color: #f8f9fa;
+    background-color: var.$bg-color;
     padding: 1em;
     text-align: center;
     border-radius: 8px;
     min-width: 15ch;
-
 
     @media only screen and (max-width: 960px) {
         width: 25em;
         margin-top: 5em;
     }
 
-}
-
-.hero-txt span {
-    font-family: $heading-font;
-
-    display: block;
-    margin: 18px;
-
-    line-height: 1.3;
-}
-
-
-.hero-txt .hero-txt-title {
-    font-size: 2.441rem;
-    font-weight: 600;
-
-
-
-    @media only screen and (max-width: 960px) {
-        font-size: 2rem;
-
+    span {
+        font-family: var.$heading-font;
+        display: block;
+        margin: 18px;
+        line-height: 1.3;
     }
-}
 
-.hero-txt .hero-txt-subtitle {
-    font-size: 1.25rem;
+    .hero-txt-title {
+        font-size: 2.441rem;
+        font-weight: 600;
 
-    @media only screen and (max-width: 960px) {
-        font-size: 1rem;
+        @media only screen and (max-width: 960px) {
+            font-size: 2rem;
+        }
+    }
 
+    .hero-txt-subtitle {
+        font-size: 1.25rem;
+
+        @media only screen and (max-width: 960px) {
+            font-size: 1rem;
+        }
     }
 }
