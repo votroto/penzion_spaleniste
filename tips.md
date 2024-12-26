@@ -6,7 +6,7 @@ description: "V okolí jsou krásné zámky, pro milovníky vojenské historie j
 
 # Co zdejší kraj nabízí
 
-Nestíháte před dovolenou naplánovat svůj dovolenkový program? Nevadí! Přijeďte i tak. Kam se chcete podívat, co chcete zažít a jak budete trávit svůj čas, si můžete průběžně a v klidu plánovat s využitím prověřených tipů uvedených na této stránce. 
+Nestíháte před dovolenou naplánovat svůj dovolenkový program? Nevadí! Přijeďte i tak. Kam se chcete podívat, co chcete zažít a jak budete trávit svůj čas, si můžete průběžně a v klidu plánovat s využitím prověřených tipů uvedených na této stránce.
 
 Přijměte mé pozvání na návštěvu míst, které mám rád. Ať se stanou blízká i vašemu srdci. Přeji příjemné výlety. Ať máte chuť se k nám vracet.
 
@@ -15,7 +15,7 @@ Přijměte mé pozvání na návštěvu míst, které mám rád. Ať se stanou b
 ## Pěší, cyklo a lyžařská turistika
 
 Orlické hory na dohled nabízejí vyžití pěším turistům, cyklistům i příznivcům běžek a lyžování. Přes den můžete například lyžovat v Deštném nebo na polské straně Šerlichu.
-Večer pak strávíte u nás, uprostřed tiché zimní noci na Spáleništi. 
+Večer pak strávíte u nás, uprostřed tiché zimní noci na Spáleništi.
 
 Dobrý pomocníkem pro Vaše plánování můžou být online mapy.
 

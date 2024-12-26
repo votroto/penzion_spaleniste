@@ -1,3 +1,5 @@
+@use "var";
+
 .nav-grid {
     display: grid;
     gap: 2em;
@@ -5,36 +7,32 @@
     justify-items: center;
     align-items: center;
 
-
     @media only screen and (max-width: 600px) {
         grid-template-columns: 1fr repeat(3, minmax(min-content, max-content)) 0px;
         gap: 1em;
     }
-}
 
-.nav-grid a:first-child {
-    justify-self: start;
-}
-
-.nav-grid a:last-child {
-    justify-self: end;
-
-    @media only screen and (max-width: 600px) {
-        display: none;
+    a:first-child {
+        justify-self: start;
     }
 
+    a:last-child {
+        justify-self: end;
+
+        @media only screen and (max-width: 600px) {
+            display: none;
+        }
+    }
 }
 
 nav {
     display: flex;
-
-    font-family: $heading-font;
-    background-color: $bg-color;
+    font-family: var.$heading-font;
+    background-color: var.$bg-color;
     font-size: 16px;
     position: sticky;
     width: 100%;
     top: 0px;
-
     z-index: 10;
 
     @media only screen and (max-width: 600px) {
@@ -58,34 +56,33 @@ nav {
     width: fit-content;
     height: fit-content;
     background: #69363b;
-    // border: 2px black solid;
     border-radius: 16px;
     color: white;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    //box-shadow: 1px 2px 4px #0005;
     padding: 16px;
     padding-right: 20px;
     padding-left: 20px;
     z-index: 11;
     gap: 12px;
-
     align-items: center;
+    animation: appear 0.5s;
 
     @media only screen and (max-width: 600px) {
         font-size: 18px;
         display: flex;
     }
-}
 
-.fab {
-    animation: appear 0.5s;
-}
+    img {
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
+        filter: invert(1);
+    }
 
-.fab img {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    filter: invert(1);
+    span {
+        font-size: 16px;
+        line-height: 16px;
+    }
 }
 
 @keyframes appear {
@@ -96,9 +93,4 @@ nav {
     100% {
         opacity: 1;
     }
-}
-
-.fab span {
-    font-size: 16px;
-    line-height: 16px;
 }

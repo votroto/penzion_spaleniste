@@ -1,3 +1,5 @@
+@use "var";
+
 .carousel-img {
     object-fit: cover;
     height: 520px;
@@ -32,8 +34,7 @@ main .owl-carousel .owl-nav button.owl-prev {
 }
 
 main .owl-carousel .owl-nav button img {
-    background: white;
-
+    background: var.$bg-color;
     border-radius: 8px;
 }
 

@@ -1,9 +1,9 @@
---- 
---- 
+---
+---
 
-@import "main";
-@import "typescale";
-@import "nav";
-@import "footer";
-@import "hero";
-@import "carousel";
+@use "root";
+@use "typescale";
+@use "nav";
+@use "footer";
+@use "hero";
+@use "carousel";
