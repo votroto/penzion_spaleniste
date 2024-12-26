@@ -9,7 +9,7 @@ imgs1: [
 ]
 imgs2: [
     {src: "/img/about_gloci3_small.webp"},
-    {src: "/img/fishing_rybn_small.webp"},
+    {src: "/img/fishing_cold_small.webp"},
 ]
 ---
 

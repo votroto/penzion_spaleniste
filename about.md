@@ -23,9 +23,9 @@ Podle historických pramenů koupil můj prapředek pozemky kolem roku 1750 od h
 {%- endfor -%}
 </div>
 
-Z místní jílovité hlíny moji předkové vyrobili cihly. Z těch postavili zdejší statek - první stavení v okolí, zděné z pálených cihel. V nejvíce podmočené části pozemku zbudovali rybník. Na poli u něj můžete ještě dnes najít vyorané úlomky původních cihel v místě, na kterém byly vyráběny.
+Z místní jílovité hlíny moji předkové vyrobili cihly. Z těch postavili zdejší statek -- první stavení v okolí, zděné z pálených cihel. V nejvíce podmočené části pozemku zbudovali rybník. Na poli u něj můžete ještě dnes najít vyorané úlomky původních cihel v místě, na kterém byly vyráběny.
 
-Zúrodnění pozemku, stavba rybníka i statku - vše dělali předkové ručně, s využitím sekyry, pily, motyky nebo s pomocí koníka. Já, dědic jejich úsilí, se hluboce skláním před tím, co dokázali a nyní pokračuji v jejich práci. Část statku jsem upravil na malý penzion se dvěma apartmány. Klidné místo mimo turistická centra, kontakt s přírodou, možnost zarybařit si na našem rybníku pár metrů za chalupou, domácká a intimní atmosféra penzionu jsou tím, proč se sem lidé rádi vracejí.
+Zúrodnění pozemku, stavba rybníka i statku -- vše dělali předkové ručně, s využitím sekyry, pily, motyky nebo s pomocí koníka. Já, dědic jejich úsilí, se hluboce skláním před tím, co dokázali a nyní pokračuji v jejich práci. Část statku jsem upravil na malý penzion se dvěma apartmány. Klidné místo mimo turistická centra, kontakt s přírodou, možnost zarybařit si na našem rybníku pár metrů za chalupou, domácká a intimní atmosféra penzionu jsou tím, proč se sem lidé rádi vracejí.
 
 Přijměte mé pozvání do opravené usedlosti v místě, na kterém já sám trávím svůj čas nejraději.
 

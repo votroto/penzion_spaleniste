@@ -2,6 +2,11 @@
 layout: default
 title: "Okolí"
 description: "V okolí jsou krásné zámky, pro milovníky vojenské historie je zde spousta hraničního opevnění, a v zimním období můžete vyrazit na Velkou Deštnou."
+imgs_hike: [
+    {src: "/img/tips_boulder.webp"},
+    {src: "/img/tips_fog.webp"},
+    {src: "/img/tips_snow.webp"},
+]
 ---
 
 # Co zdejší kraj nabízí
@@ -14,8 +19,13 @@ Přijměte mé pozvání na návštěvu míst, které mám rád. Ať se stanou b
 
 ## Pěší, cyklo a lyžařská turistika
 
-Orlické hory na dohled nabízejí vyžití pěším turistům, cyklistům i příznivcům běžek a lyžování. Přes den můžete například lyžovat v Deštném nebo na polské straně Šerlichu.
-Večer pak strávíte u nás, uprostřed tiché zimní noci na Spáleništi.
+Orlické hory na dohled nabízejí vyžití pěším turistům, cyklistům i příznivcům běžek a lyžování. Přes den můžete například lyžovat v Deštném nebo na polské straně Šerlichu. Večer pak strávíte u nás, uprostřed tiché zimní noci na Spáleništi.
+
+<div class="owl-carousel owl-theme">
+{%- for img in page.imgs_hike -%}
+    <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" /></div>
+{%- endfor -%}
+</div>
 
 Dobrý pomocníkem pro Vaše plánování můžou být online mapy.
 
