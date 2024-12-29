@@ -3,24 +3,24 @@ layout: default
 title: "Ubytování v apartmánech nebo u rybníka"
 description: "Ubytování v jednom ze dvou apartmánů se dvěmi ložnicemi a plně vybavenou kuchyní, nebo v maringotce u rybníka."
 imgs_jednicka: [
-    {alt: "ložnice", src: "/img/booking_jedn_lozn_small.webp"},
-    {alt: "kuchyně", src: "/img/booking_jedn_kuch_small.jpg"},
-    {alt: "pokoj", src: "/img/booking_jedn_poko_small.jpg"},
-    {alt: "koupelna", src: "/img/booking_jedn_koup_small.jpg"},
-    {alt: "podkroví", src: "/img/booking_jedn_leti_small.webp"},
+    {alt: "ložnice", src: "/cimg/booking_jedn_lozn_small.webp"},
+    {alt: "kuchyně", src: "/cimg/booking_jedn_kuch_small.webp"},
+    {alt: "pokoj", src: "/cimg/booking_jedn_poko_small.webp"},
+    {alt: "koupelna", src: "/cimg/booking_jedn_koup_small.webp"},
+    {alt: "podkroví", src: "/cimg/booking_jedn_leti_small.webp"},
 ]
 imgs_dvojka: [
-    {alt: "ložnice", src: "/img/booking_dvoj_lozn_small.webp"},
-    {alt: "kuchyně", src: "/img/booking_dvoj_kuch_small.webp"},
-    {alt: "kuchyně", src: "/img/booking_dvoj_kuc2_small.webp"},
-    {alt: "pokoj", src: "/img/booking_dvoj_poko_small.jpg"},
-    {alt: "záchod", src: "/img/booking_dvoj_zach_small.jpg"},
+    {alt: "ložnice", src: "/cimg/booking_dvoj_lozn_small.webp"},
+    {alt: "kuchyně", src: "/cimg/booking_dvoj_kuch_small.webp"},
+    {alt: "kuchyně", src: "/cimg/booking_dvoj_kuc2_small.webp"},
+    {alt: "pokoj", src: "/cimg/booking_dvoj_poko_small.webp"},
+    {alt: "záchod", src: "/cimg/booking_dvoj_zach_small.webp"},
 ]
 imgs_maringotka: [
-    {alt: "maringotka z venku", src: "/img/booking_mari_1_small.webp"},
-    {alt: "vnitřek maringotky", src: "/img/booking_mari_vnit_small.webp"},
-    {alt: "kuchyňka maringotky", src: "/img/booking_mari_kitchen_small.webp"},
-    {alt: "maringotka z boku", src: "/img/booking_mari_3_small.webp"},
+    {alt: "maringotka z venku", src: "/cimg/booking_mari_1_small.webp"},
+    {alt: "vnitřek maringotky", src: "/cimg/booking_mari_vnit_small.webp"},
+    {alt: "kuchyňka maringotky", src: "/cimg/booking_mari_kitchen_small.webp"},
+    {alt: "maringotka z boku", src: "/cimg/booking_mari_3_small.webp"},
 ]
 ---
 

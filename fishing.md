@@ -3,13 +3,13 @@ layout: default
 title: "Rybářská dovolená"
 description: "Nabízíme rybářskou dovolenou. Můžete si u nás zarybařit v hektarovém soukromém rybníku Spáleniště který se rozkládá v osadě Spáleniště jihovýchodně od města Dobrušky v Orlických horách."
 imgs1: [
-    {src: "/img/fishing_trof_small.webp"},
-    {src: "/img/fishing_olse_small.webp"},
-    {src: "/img/fishing_lavi_small.webp"},
+    {src: "/cimg/fishing_trof_small.webp"},
+    {src: "/cimg/fishing_olse_small.webp"},
+    {src: "/cimg/fishing_lavi_small.webp"},
 ]
 imgs2: [
-    {src: "/img/about_gloci3_small.webp"},
-    {src: "/img/fishing_cold_small.webp"},
+    {src: "/cimg/about_gloci3_small.webp"},
+    {src: "/cimg/fishing_cold_small.webp"},
 ]
 ---
 

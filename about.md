@@ -2,9 +2,9 @@
 layout: default
 title: "O penzionu Spáleniště"
 imgs: [
-    {src: "/img/about_gloci4_small.webp"},
-    {src: "/img/about_gloci2_small.webp"},
-    {src: "/img/about_gloci1_small.webp"},
+    {src: "/cimg/about_gloci4_small.webp"},
+    {src: "/cimg/about_gloci2_small.webp"},
+    {src: "/cimg/about_gloci1_small.webp"},
 ]
 ---
 

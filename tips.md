@@ -3,9 +3,9 @@ layout: default
 title: "Okolí"
 description: "V okolí jsou krásné zámky, pro milovníky vojenské historie je zde spousta hraničního opevnění, a v zimním období můžete vyrazit na Velkou Deštnou."
 imgs_hike: [
-    {src: "/img/tips_boulder.webp"},
-    {src: "/img/tips_fog.webp"},
-    {src: "/img/tips_snow.webp"},
+    {src: "/cimg/tips_boulder.webp"},
+    {src: "/cimg/tips_fog.webp"},
+    {src: "/cimg/tips_snow.webp"},
 ]
 ---
 
