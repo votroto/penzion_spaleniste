@@ -39,10 +39,12 @@ Apartmán je umístěn v 1. patře a pro maximum soukromí se do něj vchází s
 
 Lze domluvit i využití prostorného podkrovního „Letiště“ až pro 5 nocležníků ve spacích pytlích, které zvyšuje jeho ubytovací kapacitu.
 
-<div class="owl-carousel owl-theme">
-{%- for img in page.imgs_jednicka -%}
-    <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" /></div>
-{%- endfor -%}
+<div class="owl-carousel-wrapper">
+    <div class="owl-carousel owl-theme">
+    {%- for img in page.imgs_jednicka -%}
+        <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" height="520"/></div>
+    {%- endfor -%}
+    </div>
 </div>
 
 Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc. Lze domluvit i využití půdy pro až pět nenáročných nocležníků za 450,- Kč za osobu a noc.
@@ -55,10 +57,12 @@ Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 4
 
 Apartmán je umístěn v přízemí, má samostatný vchod. Skládá se ze dvou ložnic (celkem 4 lůžka + možnost až dvou přistýlek), koupelny a kuchyně. Z apartmánu jsou výhledy jedním směrem do zahrady, luk a polí, v opačném směru do dvorku usedlosti, ve které se apartmán nachází.
 
-<div class="owl-carousel owl-theme">
-{%- for img in page.imgs_dvojka -%}
-    <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" /></div>
-{%- endfor -%}
+<div class="owl-carousel-wrapper">
+    <div class="owl-carousel owl-theme">
+    {%- for img in page.imgs_dvojka -%}
+        <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" height="520"/></div>
+    {%- endfor -%}
+    </div>
 </div>
 
 Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc.
@@ -71,10 +75,12 @@ Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 4
 
 Maringotka pro rybáře na břehu rybníka. Maringotka je vybavená dvojpostelí a kuchyňkou s lednicí, plynovým vařičem a kamny na dřevo. Součástí je terasa s posezením a možností rybolovu. K dispozici je Wi-Fi připojení. Možnost až dvou přistýlek na nafukovacích matracích. Na hranici lesa jsou dva suché záchody.
 
-<div class="owl-carousel owl-theme">
-{%- for img in page.imgs_maringotka -%}
-    <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" /></div>
-{%- endfor -%}
+<div class="owl-carousel-wrapper">
+    <div class="owl-carousel owl-theme">
+    {%- for img in page.imgs_maringotka -%}
+        <div><img class="carousel-img" alt="{{ img.alt }}" src="{{ site.asset_server }}{{ img.src }}" height="520"/></div>
+    {%- endfor -%}
+    </div>
 </div>
 
 Maringotka pro 2 osoby za 1000 Kč za noc s možností stanování u maringotky za 300 Kč, případně dle telefonické dohody.

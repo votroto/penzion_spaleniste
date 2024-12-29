@@ -17,10 +17,12 @@ Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možnost�
 ## Místo s historií
 Podle historických pramenů koupil můj prapředek pozemky kolem roku 1750 od hraběte Colloredo Mansfelda, majitele blízkého zámku v Opočně. Šlo o pozemky neúrodné, o mokřiny zarostlé olšemi. Stromy předkové vykáceli. Pařezy po vykácených stromech ze země vypálili. Od té doby se místo jmenuje Spáleniště.
 
-<div class="owl-carousel owl-theme">
-{%- for img in page.imgs -%}
-    <div><img class="carousel-img" alt="genius loci" src="{{ site.asset_server }}{{ img.src }}" /></div>
-{%- endfor -%}
+<div class="owl-carousel-wrapper">
+    <div class="owl-carousel owl-theme">
+    {%- for img in page.imgs -%}
+        <div><img class="carousel-img" alt="genius loci" src="{{ site.asset_server }}{{ img.src }}" height="520"/></div>
+    {%- endfor -%}
+    </div>
 </div>
 
 Z místní jílovité hlíny moji předkové vyrobili cihly. Z těch postavili zdejší statek -- první stavení v okolí, zděné z pálených cihel. V nejvíce podmočené části pozemku zbudovali rybník. Na poli u něj můžete ještě dnes najít vyorané úlomky původních cihel v místě, na kterém byly vyráběny.
