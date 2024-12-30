@@ -47,7 +47,7 @@ Lze domluvit i využití prostorného podkrovního „Letiště“ až pro 5 noc
     </div>
 </div>
 
-Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc. Lze domluvit i využití půdy pro až pět nenáročných nocležníků za 450,- Kč za osobu a noc.
+Apartmán pro 4 osoby za 2 800,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc. Lze domluvit i využití půdy pro až pět nenáročných nocležníků za 450,- Kč za osobu a noc.
 
 <a href="#trevlix" class="hero-link">Rezervovat</a>
 
@@ -65,7 +65,7 @@ Apartmán je umístěn v přízemí, má samostatný vchod. Skládá se ze dvou 
     </div>
 </div>
 
-Apartmán pro 4 osoby za 2 400,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc.
+Apartmán pro 4 osoby za 2 800,- Kč za noc. Možnost max. dvou přistýlek za 450,- Kč za osobu a noc.
 
 <a href="#trevlix" class="hero-link">Rezervovat</a>
 
