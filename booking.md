@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ubytování v apartmánech nebo u rybníka"
-description: "Ubytování v jednom ze dvou apartmánů se dvěmi ložnicemi a plně vybavenou kuchyní, nebo v maringotce u rybníka."
+description: "Ubytování v apartmánech se dvěma ložnicemi a plně vybavenou kuchyní, nebo v maringotce s kuchyňkou a terasou u soukromého rybníka."
 imgs_jednicka: [
     {alt: "ložnice", src: "/cimg/booking_jedn_lozn_small.webp"},
     {alt: "kuchyně", src: "/cimg/booking_jedn_kuch_small.webp"},

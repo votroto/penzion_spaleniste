@@ -39,7 +39,7 @@ Nabízíme parkování za uzamykatelnou bránou, venkovní posezení s možnost�
 <br>
 
 ## Ubytování
-Penzion je určen pro klienty, kteří preferují vlastní přípravu jídla v plně vybavené kuchyni. Není zařízen pro pobyt s domácími mazlíčky.
+Penzion je ideální pro rodiny nebo skupiny přátel, kteří preferují vlastní přípravu jídla v plně vybavené kuchyni. Není zařízen pro pobyt s domácími mazlíčky.
 
 <div class="owl-carousel owl-theme">
 {%- for img in page.imgs_booking -%}

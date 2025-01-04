@@ -1,11 +1,23 @@
 ---
 layout: default
 title: "O penzionu Spáleniště"
+description": "Klidný penzion s vlastním rybníkem v Orlických horách u Dobrušky. Dva apartmány i maringotka pro rybáře, venkovní posezení s grilem, parkování za uzamykatelnou bránou, pípa s místním Rampušákem, houpačky, stolní tenis a Wi-Fi. Historické kořeny sahají až do roku 1750, kdy zde předkové zúrodnili mokřiny a postavili statek. Klidné prostředí a kontakt s přírodou – ideální místo pro odpočinek."
 imgs: [
     {src: "/cimg/about_gloci4_small.webp"},
     {src: "/cimg/about_gloci2_small.webp"},
     {src: "/cimg/about_gloci1_small.webp"},
 ]
+rich: |
+    {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Penzion Spáleniště",
+    "description": "Penzion s vlastním rybníkem v Orlických horách u Dobrušky.  Více informací na www.penzionspaleniste.cz",
+    "thumbnailUrl": "https://i.ytimg.com/vi/eZ-BhmKi8CM/default.jpg",
+    "uploadDate": "2023-01-15T14:45:23Z",
+    "duration": "PT2M32S",
+    "embedUrl": "https://www.youtube.com/embed/eZ-BhmKi8CM"
+    }
 ---
 
 # Penzion Spáleniště
